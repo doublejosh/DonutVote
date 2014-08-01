@@ -5,7 +5,7 @@
  */
 
 // Number of buttons.
-const int buttons = 6;
+const int buttons = 7;
 const long debounceDelay = 50;
 
 // Current reading from the input pin.
